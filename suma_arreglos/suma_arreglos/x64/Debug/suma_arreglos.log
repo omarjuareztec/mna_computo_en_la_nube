@@ -1,0 +1,5 @@
+﻿  suma_arreglos.cpp
+D:\Datos\Descargas\Computo en la nube\Proyectos OMP\suma_arreglos\suma_arreglos.cpp(43,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Datos\Descargas\Computo en la nube\Proyectos OMP\suma_arreglos\suma_arreglos.cpp(44,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Datos\Descargas\Computo en la nube\Proyectos OMP\suma_arreglos\suma_arreglos.cpp(35,9): warning C4101: 'i': variable local sin referencia
+  suma_arreglos.vcxproj -> D:\Datos\Descargas\Computo en la nube\Proyectos OMP\suma_arreglos\x64\Debug\suma_arreglos.exe
