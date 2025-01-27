@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Datos\\Descargas\\Computo en la nube\\Proyectos OMP\\suma_arreglos\\",
+  "WorkspaceRootPath": "D:\\Datos\\Descargas\\Computo en la nube\\proyectos_computo_en_la_nube\\suma_arreglos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CDDA4560-D962-4829-81ED-D14268DDC0DE}|suma_arreglos.vcxproj|D:\\Datos\\Descargas\\Computo en la nube\\Proyectos OMP\\suma_arreglos\\suma_arreglos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{CDDA4560-D962-4829-81ED-D14268DDC0DE}|suma_arreglos.vcxproj|D:\\Datos\\Descargas\\Computo en la nube\\proyectos_computo_en_la_nube\\suma_arreglos\\suma_arreglos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CDDA4560-D962-4829-81ED-D14268DDC0DE}|suma_arreglos.vcxproj|solutionrelative:suma_arreglos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "suma_arreglos.cpp",
-              "DocumentMoniker": "D:\\Datos\\Descargas\\Computo en la nube\\Proyectos OMP\\suma_arreglos\\suma_arreglos.cpp",
+              "DocumentMoniker": "D:\\Datos\\Descargas\\Computo en la nube\\proyectos_computo_en_la_nube\\suma_arreglos\\suma_arreglos.cpp",
               "RelativeDocumentMoniker": "suma_arreglos.cpp",
-              "ToolTip": "D:\\Datos\\Descargas\\Computo en la nube\\Proyectos OMP\\suma_arreglos\\suma_arreglos.cpp",
+              "ToolTip": "D:\\Datos\\Descargas\\Computo en la nube\\proyectos_computo_en_la_nube\\suma_arreglos\\suma_arreglos.cpp",
               "RelativeToolTip": "suma_arreglos.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-26T21:12:45.005Z",
               "EditorCaption": ""

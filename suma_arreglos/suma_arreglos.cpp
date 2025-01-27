@@ -2,6 +2,7 @@
 //
 
 #include <iostream>
+#include <cstdlib> 
 
 #ifdef _OPENMP
     #include <omp.h>
@@ -15,6 +16,7 @@
 #define N 1000
 #define chunk 100
 #define mostrar 10
+int numero_aleatorio;
 
 void imprimeArreglo(float* d);
 
@@ -23,7 +25,7 @@ int main()
 {
     if (en_paralelo)
     {
-        std::cout << "Sumando arreglos en paralelo!\n";
+        std::cout << "Sumando arreglosa en paralelo!\n";
     }
     else
     {
@@ -36,10 +38,14 @@ int main()
     int tid;
 
     // Se llenan los arreglos, pueden ser números aleatorios
+    // Inicializar la semilla aleatoria
+    srand(time(0));
     for (i = 0; i < N; i++)
     {
         a[i] = i * 10;
-        b[i] = (i + 3) * 3.7;
+        // Generar número entre 1 y 100
+        numero_aleatorio = rand() % 100 + 1;
+        b[i] = numero_aleatorio;
     }
     
     // Creando un for paralelo si esta presente la librería, de lo contrario se ejecuta secuencial

@@ -1,5 +1,7 @@
 ﻿  suma_arreglos.cpp
-D:\Datos\Descargas\Computo en la nube\Proyectos OMP\suma_arreglos\suma_arreglos.cpp(43,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
-D:\Datos\Descargas\Computo en la nube\Proyectos OMP\suma_arreglos\suma_arreglos.cpp(44,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-D:\Datos\Descargas\Computo en la nube\Proyectos OMP\suma_arreglos\suma_arreglos.cpp(35,9): warning C4101: 'i': variable local sin referencia
-  suma_arreglos.vcxproj -> D:\Datos\Descargas\Computo en la nube\Proyectos OMP\suma_arreglos\x64\Debug\suma_arreglos.exe
+D:\Datos\Descargas\Computo en la nube\proyectos_computo_en_la_nube\suma_arreglos\suma_arreglos.cpp(42,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\Datos\Descargas\Computo en la nube\proyectos_computo_en_la_nube\suma_arreglos\suma_arreglos.cpp(45,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Datos\Descargas\Computo en la nube\proyectos_computo_en_la_nube\suma_arreglos\suma_arreglos.cpp(48,16): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Datos\Descargas\Computo en la nube\proyectos_computo_en_la_nube\suma_arreglos\suma_arreglos.cpp(38,9): warning C4101: 'tid': variable local sin referencia
+D:\Datos\Descargas\Computo en la nube\proyectos_computo_en_la_nube\suma_arreglos\suma_arreglos.cpp(37,9): warning C4101: 'i': variable local sin referencia
+  suma_arreglos.vcxproj -> D:\Datos\Descargas\Computo en la nube\proyectos_computo_en_la_nube\suma_arreglos\x64\Debug\suma_arreglos.exe
